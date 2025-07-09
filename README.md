@@ -1,4 +1,4 @@
-# gerador_validador_cpf
+# Automação de gerador e validador de cpf
 Este programa vai gerar cpfs e validar junto a sua api, salvar na Database e exibir no navegador os cpfs validados  
   
 Ececute o main.py para a quantidade de loops que quiser e essa será a quantidade de cpfs gerados  
