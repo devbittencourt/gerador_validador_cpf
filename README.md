@@ -12,7 +12,7 @@ O arquivo ver exibe no navegador os cpfs encontrados.
   
 Este conteudo é para fins de estudo, não use para crimes  
   
-Cpfs fakes  
+Interface com Cpfs fakes  
 
   
 ![image](https://github.com/user-attachments/assets/5c7aef8b-d746-4c68-acf1-041a25d2ecb4)
