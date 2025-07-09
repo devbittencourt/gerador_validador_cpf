@@ -10,7 +10,7 @@ Configure em qual caso a sua API retorna o cpf existente antes de rodar.
   
 O arquivo ver exibe no navegador os cpfs encontrados.  
   
-Este conteudo é para fins de estudo, não use para crimes  
+Este conteudo é para fins educadionais, use legalmente.  
   
 Interface com Cpfs fakes  
 
