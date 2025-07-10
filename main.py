@@ -172,7 +172,7 @@ def gerar_cpf10():
     multiplicador1 = [10, 9, 8, 7, 6, 5, 4, 3, 2]
     multiplicador2 = [11, 10, 9, 8, 7, 6, 5, 4, 3, 2]
 
-    semente = str(randint(100000000, 999999999))  # Gera 9 dígitos
+    semente = str(randint(100000000, 999999999))  
 
     soma = sum(int(semente[i]) * multiplicador1[i] for i in range(9))
     resto = soma % 11
